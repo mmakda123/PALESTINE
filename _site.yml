@@ -1,8 +1,8 @@
 name: "Maryam"
 title: "palestine"
 description: |
-
 output_dir: "docs"
+theme: "my_theme.css"
 navbar:
   right:
     - text: "Home"

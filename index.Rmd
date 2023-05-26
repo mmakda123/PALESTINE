@@ -8,7 +8,7 @@ links:
     url: 'https://github.com/R-Girls target="_blank"'
   - label: '<i class="fas fa-envelope"></i> Contact Us'
     url: "mailto:maryam.makda_20@greenoak.bham.sch.uk"
-output:
+output:  
   postcards::trestles
 site: distill::distill_website
 ---
