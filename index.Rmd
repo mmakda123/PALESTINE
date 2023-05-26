@@ -1,0 +1,23 @@
+---
+title: "Palestine"
+image: "images/palestine.jpg"
+links:
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: 'https://twitter.com/R_Girls_School target="_blank"'
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/R-Girls target="_blank"'
+  - label: '<i class="fas fa-envelope"></i> Contact Us'
+    url: "mailto:maryam.makda_20@greenoak.bham.sch.uk"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+Spreading awareness about situations within Palestine 🤲
+
+
+
+Palestine is sometimes called the Holy Land. It is a sacred place for three major religions: Islam, Christianity, and Judaism. 
+
+
+Palestine is a region in the Middle East. It is in the Levant, between the Jordan River and the Mediterranean Sea. Many cultures have lived in Palestine through history and built their civilizations, such as the Philistines, Phoenicians and Arabs.

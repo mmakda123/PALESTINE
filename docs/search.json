@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-05-12T11:12:47+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Palestine",
+      "author": [],
+      "contents": "\n\n          \n          \n          palestine\n          \n          \n          Home\n          palestine\n          About\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Palestine\n            \n            \n              \n                \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Contact Us\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            Spreading awareness about situations within Palestine\n            🤲\n            Palestine is sometimes called the Holy Land. It is a\n            sacred place for three major religions: Islam, Christianity,\n            and Judaism.\n            Palestine is a region in the Middle East. It is in the\n            Levant, between the Jordan River and the Mediterranean Sea.\n            Many cultures have lived in Palestine through history and\n            built their civilizations, such as the Philistines,\n            Phoenicians and Arabs.\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Palestine\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              Spreading awareness about situations within Palestine\n              🤲\n              Palestine is sometimes called the Holy Land. It is a\n              sacred place for three major religions: Islam,\n              Christianity, and Judaism.\n              Palestine is a region in the Middle East. It is in the\n              Levant, between the Jordan River and the Mediterranean\n              Sea. Many cultures have lived in Palestine through history\n              and built their civilizations, such as the Philistines,\n              Phoenicians and Arabs.\n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-05-26T10:47:02+00:00"
+    },
+    {
+      "path": "palestine.html",
+      "title": "Palestine",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "maryam",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2023-05-26T10:51:56+00:00"
+    }
+  ],
+  "collections": []
+}
