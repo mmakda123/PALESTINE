@@ -1,9 +1,9 @@
 ---
 title: "Palestine"
 description: |
- Hello
+ Spreading awareness about situations within Palestine 🤲
 author:
-  - name: "maryam" 
+  - name: "Maryam" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
@@ -12,7 +12,8 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Write more info here
+The Israeli–Palestinian conflict has its roots in the late 19th and early 20th centuries, with the birth of major nationalist movements among the Jews and among the Arabs, both geared towards attaining sovereignty for their people in the Middle East.
+
 
 
 
