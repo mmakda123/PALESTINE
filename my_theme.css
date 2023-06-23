@@ -31,8 +31,8 @@ html {
   --aside-color:     rgba(0, 0, 0, 0.6);
   --fig-cap-color:   rgba(0, 0, 0, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
-  --heading-font:    sans-serif;
-  --mono-font:       monospace;
+  --heading-font:    Tangerine;
+  --mono-font:       Oswald;
   --body-font:       sans-serif;
   --navbar-font:     sans-serif;  /* websites + blogs only */
 }
@@ -77,6 +77,33 @@ d-appendix {
   --bkgd-color:       #0F2E3D;
 }
 
+h1 {
+      color: #C34A79;
+      font-size: 100px;
+    }
+
+
+.btn-outline-dark {
+        background-color: transparent; 
+        color: rgba(195, 74, 121);
+        border: 1px solid;
+        border-color: rgba(195, 74, 121);
+    }
+    
+
+    .btn-outline-dark:hover {
+        background-color: rgba(195, 74, 121);
+        border-color: rgba(195, 74, 121);
+        color: white;
+    }
+
+
 /*-- Additional custom styles --*/
-/* Add any additional CSS rules below                      */
+/*h1 {
+      h1 {
+      color: #C34A79;
+      font-size: 36px;
+    }color: #C34A79;
+      font-size: 36px;
+    } Add any additional CSS rules below                      */
 
