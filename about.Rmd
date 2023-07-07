@@ -8,3 +8,6 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 My website has everything you need to know regarding palestine!
+Did you understand it all?
+
+I created this website regarding the conflict between Israel and Palestine to educate you all and to ensure you understand the cause of the conflict between the two countries.
